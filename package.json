@@ -1,14 +1,14 @@
 {
   "name": "@hermeticor/cli",
-  "version": "0.4.9",
+  "version": "0.4.23",
   "description": "Hermetica command line: device login, config as code, sandbox sends, any API operation",
   "license": "MIT",
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hermeticacomms/hermetica-cli.git"
+    "url": "git+https://github.com/hermeticor/hermetica-cli.git"
   },
-  "homepage": "https://github.com/hermeticacomms/hermetica-cli#readme",
+  "homepage": "https://github.com/hermeticor/hermetica-cli#readme",
   "keywords": [
     "hermeticor",
     "hermetica",
